@@ -1,0 +1,48 @@
+﻿@model IEnumerable<UserViewModel>
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container py-4">
+    <div class="row mb-4">
+        <div class="col text-center">
+            <h2>All Registered Users</h2>
+            <hr />
+        </div>
+    </div>
+
+    @if (Model.Any())
+    {
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                @foreach (var session in Model)
+                {
+                    <div class="card mb-3 text-center">
+                        <div class="card-body">
+                            <div class="row justify-content-center">
+                                <div class="col-md-3">
+                                    <label class="fw-bold">Username:</label>
+                                    <div>@session.Username</div>
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="fw-bold">Full Name:</label>
+                                    <div>@session.FullName</div>
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="fw-bold">Birth Date:</label>
+                                    <div>@session.BirthDate.ToString("yyyy-MM-dd")</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info text-center">
+            No users available.
+        </div>
+    }
+</div>

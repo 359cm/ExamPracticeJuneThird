@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPracticeJuneThird.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPracticeJuneThird.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPracticeJuneThird.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPracticeJuneThird.Repository.AssemblyInfo.cs
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPracticeJuneThird.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPracticeJuneThird.Repository.sourcelink.json
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\bin\Debug\net8.0\ExamPracticeJuneThird.Repository.deps.json
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\bin\Debug\net8.0\ExamPracticeJuneThird.Repository.dll
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\bin\Debug\net8.0\ExamPracticeJuneThird.Repository.pdb
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\bin\Debug\net8.0\ExamPracticeJuneThird.Models.dll
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\bin\Debug\net8.0\ExamPracticeJuneThird.Models.pdb
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPrac.027A4AAB.Up2Date
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPracticeJuneThird.Repository.dll
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\refint\ExamPracticeJuneThird.Repository.dll
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ExamPracticeJuneThird.Repository.pdb
+C:\Users\User\Documents\Coding\Dais Bootcamp\ExamPracticeJuneThird\ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Repository\obj\Debug\net8.0\ref\ExamPracticeJuneThird.Repository.dll

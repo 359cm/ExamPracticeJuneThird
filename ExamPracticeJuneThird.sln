@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPracticeJuneThird.Models", "ExamPracticeJuneThird.Models\ExamPracticeJuneThird.Models.csproj", "{025909CF-F0B5-411A-9992-A2BE87000B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPracticeJuneThird.Program", "ExamPracticeJuneThird.Program\ExamPracticeJuneThird.Program.csproj", "{7560F034-5605-4EED-8368-E27E893662CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPracticeJuneThird.Repository", "ExamPracticeJuneThird.Repository\ExamPracticeJuneThird.Repository.csproj", "{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPracticeJuneThird.Services", "ExamPracticeJuneThird.Services\ExamPracticeJuneThird.Services.csproj", "{0803755C-2548-4B9B-8AD2-0097763AB2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPracticeJuneThird.Web", "ExamPracticeJuneThird.Web\ExamPracticeJuneThird.Web.csproj", "{BF280B03-FA97-455D-BB90-AE08867726B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025909CF-F0B5-411A-9992-A2BE87000B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025909CF-F0B5-411A-9992-A2BE87000B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025909CF-F0B5-411A-9992-A2BE87000B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025909CF-F0B5-411A-9992-A2BE87000B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7560F034-5605-4EED-8368-E27E893662CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7560F034-5605-4EED-8368-E27E893662CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7560F034-5605-4EED-8368-E27E893662CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7560F034-5605-4EED-8368-E27E893662CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0803755C-2548-4B9B-8AD2-0097763AB2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0803755C-2548-4B9B-8AD2-0097763AB2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0803755C-2548-4B9B-8AD2-0097763AB2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0803755C-2548-4B9B-8AD2-0097763AB2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF280B03-FA97-455D-BB90-AE08867726B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF280B03-FA97-455D-BB90-AE08867726B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF280B03-FA97-455D-BB90-AE08867726B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF280B03-FA97-455D-BB90-AE08867726B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422A2C85-235A-41A8-A45A-D79438F6CE0D}
+	EndGlobalSection
+EndGlobal

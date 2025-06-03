@@ -1,0 +1,751 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\implementations\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\implementations\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\interfaces\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\interfaces\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\models\\viewmodels\\user\\userlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\models\\viewmodels\\user\\userlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\dtos\\user\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\dtos\\user\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\views\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\views\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\connectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\connectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\models\\viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\models\\viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.web\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF280B03-FA97-455D-BB90-AE08867726B8}|ExamPracticeJuneThird.Web\\ExamPracticeJuneThird.Web.csproj|solutionrelative:exampracticejunethird.web\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025909CF-F0B5-411A-9992-A2BE87000B3E}|ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.models\\exampracticejunethird.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{025909CF-F0B5-411A-9992-A2BE87000B3E}|ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models.csproj|solutionrelative:exampracticejunethird.models\\exampracticejunethird.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\exampracticejunethird.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\exampracticejunethird.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\exampracticejunethird.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\exampracticejunethird.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560F034-5605-4EED-8368-E27E893662CE}|ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.program\\exampracticejunethird.program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7560F034-5605-4EED-8368-E27E893662CE}|ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj|solutionrelative:exampracticejunethird.program\\exampracticejunethird.program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560F034-5605-4EED-8368-E27E893662CE}|ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.program\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7560F034-5605-4EED-8368-E27E893662CE}|ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj|solutionrelative:exampracticejunethird.program\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560F034-5605-4EED-8368-E27E893662CE}|ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560F034-5605-4EED-8368-E27E893662CE}|ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj|solutionrelative:exampracticejunethird.program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025909CF-F0B5-411A-9992-A2BE87000B3E}|ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025909CF-F0B5-411A-9992-A2BE87000B3E}|ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models.csproj|solutionrelative:exampracticejunethird.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\implementations\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\implementations\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\interfaces\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\interfaces\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\implementations\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\implementations\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\interfaces\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\interfaces\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\helpers\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\helpers\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\dtos\\user\\updatepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\dtos\\user\\updatepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\dtos\\user\\updatefullnamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\dtos\\user\\updatefullnamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\dtos\\user\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\dtos\\user\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\dtos\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\dtos\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\dtos\\user\\getallusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\dtos\\user\\getallusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\dtos\\authentication\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\dtos\\authentication\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.services\\dtos\\authentication\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0803755C-2548-4B9B-8AD2-0097763AB2C9}|ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj|solutionrelative:exampracticejunethird.services\\dtos\\authentication\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\interfaces\\user\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\interfaces\\user\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\interfaces\\user\\userfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\interfaces\\user\\userfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\helpers\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\helpers\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|c:\\users\\user\\documents\\coding\\dais bootcamp\\exampracticejunethird\\exampracticejunethird.models\\exampracticejunethird.repository\\helpers\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D26D9E-F952-4F41-B5D5-1D5EFC5C33DF}|ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj|solutionrelative:exampracticejunethird.repository\\helpers\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T21:48:17.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:55:01.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\UserInfo.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\DTOs\\User\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\UserInfo.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\DTOs\\User\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:07:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Models\\ViewModels\\User\\UserListViewModel.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Models\\ViewModels\\User\\UserListViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Models\\ViewModels\\User\\UserListViewModel.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Models\\ViewModels\\User\\UserListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:37:10.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Interfaces\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\Interfaces\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Interfaces\\User\\IUserService.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\Interfaces\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:31:55.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Implementations\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\Implementations\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Implementations\\User\\UserService.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\Implementations\\User\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vyUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:52:48.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Program.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:57:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:39:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\Home\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Views\\Home\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\Home\\Index.cshtml.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Views\\Home\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:49:04.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\ConnectionFactory.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\ConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\ConnectionFactory.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\ConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:01:36.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\appsettings.json",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T21:28:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:43:13.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Attributes\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Attributes\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:38:15.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Models\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Models\\ViewModels\\Account\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Models\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Models\\ViewModels\\Account\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:36:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T21:33:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T21:30:07.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T21:29:23.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\libman.json",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Web\\libman.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Web\\libman.json",
+              "RelativeToolTip": "ExamPracticeJuneThird.Web\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T21:27:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamPracticeJuneThird.Services",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\ExamPracticeJuneThird.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T21:08:40.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExamPracticeJuneThird.Repository",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\ExamPracticeJuneThird.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T21:07:38.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExamPracticeJuneThird.Models",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models.csproj",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models.csproj",
+              "RelativeToolTip": "ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T21:00:59.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Program\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Program\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Program\\appsettings.json",
+              "RelativeToolTip": "ExamPracticeJuneThird.Program\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T20:10:58.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExamPracticeJuneThird.Program",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj",
+              "RelativeToolTip": "ExamPracticeJuneThird.Program\\ExamPracticeJuneThird.Program.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T20:07:58.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Implementations\\Authentication\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\Implementations\\Authentication\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Implementations\\Authentication\\AuthenticationService.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\Implementations\\Authentication\\AuthenticationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:35:22.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Interfaces\\Authentication\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\Interfaces\\Authentication\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Interfaces\\Authentication\\IAuthenticationService.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\Interfaces\\Authentication\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:30:13.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Helpers\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\Helpers\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\Helpers\\SecurityHelper.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\Helpers\\SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:21:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdatePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\UpdatePasswordRequest.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\DTOs\\User\\UpdatePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\UpdatePasswordRequest.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\DTOs\\User\\UpdatePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:18:21.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateFullNameRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\UpdateFullNameRequest.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\DTOs\\User\\UpdateFullNameRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\UpdateFullNameRequest.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\DTOs\\User\\UpdateFullNameRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:17:35.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Program\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Program\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Program\\Program.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Program\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:10:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Implementations\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\Implementations\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Implementations\\User\\UserRepository.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\Implementations\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:35:35.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models\\User.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Models\\User.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:06:02.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\UpdateUserResponse.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\DTOs\\User\\UpdateUserResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\UpdateUserResponse.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\DTOs\\User\\UpdateUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:16:13.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Interfaces\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\Interfaces\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Interfaces\\User\\IUserRepository.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\Interfaces\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:38:53.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\GetUserResponse.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\DTOs\\User\\GetUserResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\GetUserResponse.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\DTOs\\User\\GetUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:14:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllUsersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\GetAllUsersResponse.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\DTOs\\User\\GetAllUsersResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\User\\GetAllUsersResponse.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\DTOs\\User\\GetAllUsersResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:12:41.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\Authentication\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\DTOs\\Authentication\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\Authentication\\LoginResponse.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\DTOs\\Authentication\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:06:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\Authentication\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Services\\DTOs\\Authentication\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Services\\DTOs\\Authentication\\LoginRequest.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Services\\DTOs\\Authentication\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:04:47.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Interfaces\\User\\UserUpdate.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\Interfaces\\User\\UserUpdate.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Interfaces\\User\\UserUpdate.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\Interfaces\\User\\UserUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:42:17.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserFilter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Interfaces\\User\\UserFilter.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\Interfaces\\User\\UserFilter.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Interfaces\\User\\UserFilter.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\Interfaces\\User\\UserFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:40:40.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Helpers\\UpdateCommand.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\Helpers\\UpdateCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Helpers\\UpdateCommand.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\Helpers\\UpdateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:24:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Helpers\\Filter.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\Helpers\\Filter.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Helpers\\Filter.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\Helpers\\Filter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:19:23.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\Base\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:44:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Base\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "ExamPracticeJuneThird.Repository\\Base\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Coding\\Dais Bootcamp\\ExamPracticeJuneThird\\ExamPracticeJuneThird.Models\\ExamPracticeJuneThird.Repository\\Base\\IBaseRepository.cs",
+              "RelativeToolTip": "ExamPracticeJuneThird.Repository\\Base\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:12:22.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
